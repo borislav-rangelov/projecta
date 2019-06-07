@@ -17,6 +17,7 @@
         <dependency>
             <groupId>com.brangelov</groupId>
             <artifactId>project-b</artifactId>
+            <type>war</type>
             <version>1.0-SNAPSHOT</version>
         </dependency>
     </dependencies>
