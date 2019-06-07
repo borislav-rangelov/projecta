@@ -1,4 +1,4 @@
-package com.brangelov.projectb;
+package com.brangelov.projectc;
 
 import org.junit.Test;
 
@@ -9,4 +9,3 @@ public class ExampleTest {
 
     }
 }
-

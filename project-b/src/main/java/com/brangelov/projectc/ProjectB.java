@@ -1,4 +1,4 @@
-package com.brangelov.projectb;
+package com.brangelov.projectc;
 
 public class ProjectB {
 

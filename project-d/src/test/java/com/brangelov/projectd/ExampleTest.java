@@ -1,10 +1,10 @@
 package com.brangelov.projectd;
 
-import org.junit.Test;
+//import org.junit.Test;
 
 public class ExampleTest {
 
-    @Test
+//    @Test
     public void test() {
 
     }
